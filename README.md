@@ -1,18 +1,18 @@
-# 🖥️ SQL Practice Assignment – Nisha Haldar
+# 🖥️ SQL Assignment & Certificate – Nisha Haldar
 
 ## 📘 Overview
-This repository demonstrates my **SQL learning journey** as part of my **Data Analytics skill development**.  
-It contains my **SQL certificate** 🎓 along with **50 SQL practice questions** 📝 that I completed to strengthen my database querying skills.
+This repository showcases my **SQL skills** as part of my **Data Analytics expertise**.  
+It contains my **SQL certificate** 🎓 along with **50 SQL questions** 📝 that I have completed.
 
-**SQL (Structured Query Language)** is a standardized language used to manage and manipulate relational databases.  
-It is widely used in **Data Analytics, Business Intelligence, and Data Engineering** for **data retrieval, analysis, and insights**.
+**SQL (Structured Query Language)** is a standardized language used to manage and analyze relational databases.  
+It is widely used in **Data Analytics, Business Intelligence, and Data Engineering** for **extracting, analyzing, and interpreting data**.
 
-Through this project, I applied SQL concepts to solve practical problems and enhanced my ability to work with real-world datasets. 💡
+Through this project, I have demonstrated my ability to write efficient SQL queries and solve real-world database problems. 💡
 
 ---
 
-## 🛠️ Skills and Concepts Practiced
-By completing these 50 questions, I gained hands-on experience in:  
+## 🛠️ Skills and Concepts Demonstrated
+By completing these 50 questions, I have applied and reinforced knowledge in:  
 
 - 🔹 **Data Retrieval & Filtering:** SELECT, WHERE, ORDER BY  
 - 🔹 **Data Aggregation:** GROUP BY, HAVING  
@@ -21,32 +21,24 @@ By completing these 50 questions, I gained hands-on experience in:
 - 🔹 **Analytical Functions:** Aggregate Functions (SUM, COUNT, AVG, MIN, MAX)  
 - 🔹 **Advanced Analytics:** Window Functions (ROW_NUMBER, RANK, DENSE_RANK)  
 
-This practice helped me develop a **strong foundation in SQL** for analytics and reporting tasks. ✅
-
----
-
-## 📂 File Included
-- `SQL_Practice_Assignment_Questions_Certificate.pdf` – PDF containing:  
-  1. SQL Certificate 🎓  
-  2. 50 SQL Practice Questions 📝  
+This demonstrates a **strong command over SQL** for analytics and reporting tasks. ✅
 
 ---
 
 ## 🎯 Project Purpose
-- Showcase **SQL knowledge** and practical application skills  
-- Demonstrate **problem-solving ability** using SQL  
+- Showcase **proficiency in SQL**  
+- Demonstrate **problem-solving with SQL queries**  
 - Build a professional portfolio for **Data Analytics roles**  
 
 ---
 
 ## ⚡ How to Use
-1. Download the PDF from this repository  
+1. Click on the PDF link above to **view or download** the file  
 2. Review the SQL questions and solutions  
-3. Practice executing queries in any SQL environment (MySQL, PostgreSQL, SQL Server, etc.)  
-4. Apply these concepts to real-world data problems  
+3. Apply these concepts in real-world SQL tasks and analytics  
 
 ---
 
 ## 📬 Contact
 - LinkedIn: [Nisha Haldar](https://www.linkedin.com/in/nisha-haldar-011675371/)  
-- Email: your-email@example.com
+- Email: nishahaldar2020@gmail.com
