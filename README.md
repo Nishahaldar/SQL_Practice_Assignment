@@ -38,6 +38,7 @@ This demonstrates a **strong command over SQL** for analytics and reporting task
 3. Apply these concepts in real-world SQL tasks and analytics  
 
 ---
+![SQL Assignment Screenshot](SQL_Assignment_Screenshot.png)
 
 ## 📬 Contact
 - LinkedIn: [Nisha Haldar](https://www.linkedin.com/in/nisha-haldar-011675371/)  
